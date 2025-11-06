@@ -11,4 +11,4 @@ avec une multitude de petits personnages aux fenetres et sur les balcons dans de
 différentes. des tout petits dragons volent tout autour de l'escargot
 
 Le dessin créé par Chatgpt : 
-![Un escargot à étages](../escargot/original.jpg "Dessin original")
+![Un escargot à étages](../escargot/original.jpeg "Dessin original")
