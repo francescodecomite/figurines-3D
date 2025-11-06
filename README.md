@@ -23,5 +23,5 @@ Le dessin créé par Chatgpt :
 
 
 3. J'imprime.
-![L'impression 3D)](escargot/resultat.jpg "3D virtuel")
+![L'impression 3D)](./escargot/resultat.jpg "3D virtuel")
 4. Je peins (pas encore fait). 
