@@ -18,8 +18,8 @@ Le dessin créé par Chatgpt :
 ![Un escargot à étages](escargot/original.png "Dessin original")
 
 2 Je demande à [Tripo3d](https://studio.tripo3d.ai)  de transformer ce dessin en forme 3D (fichier STL). L'échelle est toute petite, il faut l'agrandir. 
-![Le modèle 3D dans Rhino (Blender marche aussi)](escargot/escargotstl.JPG "3D virtuel")
-<img src="./escargot/escargotstl.JPG" width="200" height="100">
+Le modèle 3D dans Rhino (Blender marche aussi) :
+<img src="./escargot/escargotstl.JPG" width="640" height="480">
 
 
 3. J'imprime.
