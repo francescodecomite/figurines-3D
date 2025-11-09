@@ -37,4 +37,4 @@ Le modèle 3D dans Rhino (Blender marche aussi) :
 ![L'impression 3D)]
 <img src="./escargot/resultat.jpg" width="350" height="393">
 4. Je peins 
-<img src="./escargot/DSCF4411.jpg" width="350" height="393">
+<img src="./escargot/DSCF4411.jpeg" width="350" height="393">
