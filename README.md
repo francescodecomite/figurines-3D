@@ -2,7 +2,7 @@
 Utilisation d'une chaine d'outils pour produire des objets 3D
 
  Un petit texte pour expliquer comment fabriquer une figurine imprimée en 3D à partir d'une image. 
-Je n'ai rien inventé, ni les IA (Chatgpt, Tripo3d), ni la chaîne d'action décrite ici par [Jean-Noël Saint-Trapt](https://www.saintrapt.com/projet-pedagogique-concevoir-des-prototypes-de-figurines-pour-un-jeu-de-cybersecurite/)
+Je n'ai rien inventé, ni les IA (Chatgpt, Tripo3d), ni la chaîne d'action décrite ici par [Jean-Noël Saintrapt](https://www.saintrapt.com/projet-pedagogique-concevoir-des-prototypes-de-figurines-pour-un-jeu-de-cybersecurite/)
 
 Les fichiers sont dans le répertoire escargot : 
 
