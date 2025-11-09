@@ -44,8 +44,9 @@ Le modèle 3D dans Rhino (Blender marche aussi) :
 Tripo3D invente l'arrière du modèle. Quand le modèle est standard (un bonhomme, une maison, un escargot), ça marche tout seul. 
 Par contre, quand le modèle est un peu *bizarre* : 
 
-<img src="./escargot/echecs.png" width="480" height="600">
+<img src="./escargot/echecs.png" width="512" height="768">
 
-...il ne peut pas inférer correctement le côté caché, et ca donne un [modèle pas imprimable]( ./escargot/elephant+chess+scene+3d+model.stl) 
+...il ne peut pas inférer correctement le côté caché, et ca donne un [modèle pas imprimable]( ./escargot/elephant.jpg) 
+<img src="./escargot/DSCF4411.JPG" width="350" height="393">
 
 
