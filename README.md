@@ -47,6 +47,6 @@ Par contre, quand le modèle est un peu *bizarre* :
 <img src="./escargot/echecs.png" width="512" height="768">
 
 ...il ne peut pas inférer correctement le côté caché, et ca donne un [modèle pas imprimable]( ./escargot/elephant.jpg) 
-<img src="./escargot/elephant.jpg" width="350" height="393">
+<img src="./escargot/elephant.JPG" width="350" height="393">
 
 
