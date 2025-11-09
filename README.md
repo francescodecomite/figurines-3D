@@ -24,7 +24,8 @@ avec une multitude de petits personnages aux fenetres et sur les balcons dans de
 différentes. des tout petits dragons volent tout autour de l'escargot
 
 Le dessin créé par Chatgpt : 
-![Un escargot à étages](escargot/original.png "Dessin original")
+
+<img src="./escargot/original.png" width="350" height="393">
 
 2 Je demande à [Tripo3d](https://studio.tripo3d.ai)  de transformer ce dessin en forme 3D (fichier STL). L'échelle est toute petite, il faut l'agrandir. 
 Le modèle 3D dans Rhino (Blender marche aussi) :
@@ -37,4 +38,4 @@ Le modèle 3D dans Rhino (Blender marche aussi) :
 ![L'impression 3D)]
 <img src="./escargot/resultat.jpg" width="350" height="393">
 4. Je peins 
-<img src="./escargot/DSCF4411.jpeg" width="350" height="393">
+<img src="./escargot/DSCF4411.JPG" width="350" height="393">
