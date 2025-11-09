@@ -6,7 +6,7 @@ Je n'ai rien inventé, ni les IA (Chatgpt, Tripo3d), ni la chaîne d'action déc
 
 Les fichiers sont dans le répertoire escargot : 
 
-1. Le dessin de l'[escargot-maison](./escargot/original.png)
+1. Le dessin de l'[escargot-maison](./escargot/original.PNG)
 2. Le [modèle 3D engendré](./escargot/fantasy+snail+tower+3d+model.stl) par [Tripo3d](https://studio.tripo3d.ai). Il reste un cadre inutile, que j'ai enlevé avec Rhino. Je n'ai pas réussi dans Blender... J'aurai pu
 plus facilement l'enlever dans le dessin original avec Gimp...
 3. Le [même modèle 3D](./escargot/fantasy+snail+tower+3d+model.stl) sans le cadre. 
