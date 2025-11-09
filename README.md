@@ -7,11 +7,11 @@ Je n'ai rien inventé, ni les IA (Chatgpt, Tripo3d), ni la chaîne d'action déc
 Les fichiers sont dans le répertoire escargot : 
 
 1. Le dessin de l'[escargot-maison](./escargot/original.png)
-2. Le [modèle 3D engendré](./escargot/fantasy+snail+tower+3d+model.stl) par [Tripo3d](https://studio.tripo3d.ai). Il reste un cadre inutile, que j'ai enlevé avec Rhino. Je n'ai pas réussi dans Blender... J'aurai pu
+2. Le [modèle 3D engendré](./escargot/fantasy+snail+tower+3d+model.stl) par [Tripo3d](https://studio.tripo3d.ai). (*Le fichier fait 90 méga, github refuse de l'afficher*)Il reste un cadre inutile, que j'ai enlevé avec Rhino. Je n'ai pas réussi dans Blender... J'aurai pu
 plus facilement l'enlever dans le dessin original avec Gimp...
-3. Le [même modèle 3D](./escargot/fantasy+snail+tower+3d+model.stl) sans le cadre. 
+3. Le [même modèle 3D](./escargot/fantasy+snail+tower+3d+model.stl) sans le cadre. * Le fichier est toujours trop gros*...
 4. Le [fichier](./escargot/dagoma0.g) pour la dagoma. Pas utile si vous avez une autre machine. 
-5. Quelques photos et vidéo dans le répertoire 
+5. Quelques photos et une vidéo dans le répertoire. 
 
 
 
@@ -39,3 +39,13 @@ Le modèle 3D dans Rhino (Blender marche aussi) :
 <img src="./escargot/resultat.jpg" width="350" height="393">
 4. Je peins(peinture à maquettes) 
 <img src="./escargot/DSCF4411.JPG" width="350" height="393">
+
+## Limitations
+Tripo3D invente l'arrière du modèle. Quand le modèle est standard (un bonhomme, une maison, un escargot), ça marche tout seul. 
+Par contre, quand le modèle est un peu *bizarre* : 
+
+<img src="./escargot/echecs.png" width="350" height="393">
+
+...il ne peut pas inférer correctement le côté caché, et ca donne un [modèle pas imprimable]( ./escargot/elephant+chess+scene+3d+model.stl) 
+
+
