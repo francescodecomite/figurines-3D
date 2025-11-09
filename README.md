@@ -34,5 +34,6 @@ Le modèle 3D dans Rhino (Blender marche aussi) :
 
 
 3. J'imprime.
-![L'impression 3D)](./escargot/resultat.jpg "3D virtuel")
+![L'impression 3D)]
+<img src="./escargot/resultat.jpg" width="350" height="393">
 4. Je peins ![Résultat final](escargot/DSCF4411.jpg "Résultat final"). 
